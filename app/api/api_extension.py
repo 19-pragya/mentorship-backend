@@ -9,6 +9,8 @@ api = Api(
     + "The main repository of the Backend System can be found here: https://github.com/anitab-org/mentorship-backend \n \n"
     + "The Android client for the Mentorship System can be found here: https://github.com/anitab-org/mentorship-android \n \n"
     + "For more information about the project here's a link to our wiki guide: https://github.com/anitab-org/mentorship-backend/wiki"
+    + "For flutter client for the Mentorship System can be found here: https://github.com/anitab-org/mentorship-flutter"
+    + "For ios client for the Mentorship System can be found here: https://github.com/anitab-org/mentorship-ios"
     # doc='/docs/'
 )
 api.namespaces.clear()
